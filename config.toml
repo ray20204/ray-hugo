@@ -17,11 +17,11 @@ canonifyurls = true
 
 [author]
   name = "+Ray"
-  bio = "Super bio with markdown support **COOL**"
-  job = "software engineer"
+  bio = ""
+  job = "platform software engineer"
   location = "Taipei"
   gravatarEmail = "ray20204@gmail.com"
-  picture = "https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/1397173_1048419895180986_8984954174784522759_o.jpg?oh=874822edefb8272c06c2d5414618ab18&oe=59CD8A78"
+  picture = "http://s.pimg.tw/avatar/ray20204/0/0/zoomcrop/200x200.png%3Fv=1500395503"
 
 # Menu Configuration
 [[menu.main]]
