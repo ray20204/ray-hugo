@@ -6,10 +6,28 @@
     <description>Recent content in Tags on &#43;Ray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Jun 2017 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 12:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Wed, 26 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/excel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Firebase</title>
@@ -53,6 +71,42 @@
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localhost</title>
+      <link>/tags/localhost/</link>
+      <pubDate>Wed, 26 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/localhost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>/tags/mysql/</link>
+      <pubDate>Wed, 26 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>/tags/php/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utf8</title>
+      <link>/tags/utf8/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/utf8/</guid>
       <description></description>
     </item>
     

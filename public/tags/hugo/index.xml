@@ -21,15 +21,5 @@
 &lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>hugo with firebase</title>
-      <link>/2017/06/hugo-with-firebase/</link>
-      <pubDate>Sat, 24 Jun 2017 12:00:00 +0800</pubDate>
-      
-      <guid>/2017/06/hugo-with-firebase/</guid>
-      <description>&lt;p&gt;build HUGO on firebase
-&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

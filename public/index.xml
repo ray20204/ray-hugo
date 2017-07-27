@@ -6,19 +6,28 @@
     <description>Recent content on &#43;Ray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Jun 2017 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 12:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hugo with firebase</title>
-      <link>/2017/06/hugo-with-firebase/</link>
-      <pubDate>Sat, 24 Jun 2017 12:00:00 +0800</pubDate>
+      <title>docker container 連結 localhost MySQL</title>
+      <link>/2017/07/docker-container-%E9%80%A3%E7%B5%90-localhost-mysql/</link>
+      <pubDate>Wed, 26 Jul 2017 12:00:00 +0800</pubDate>
       
-      <guid>/2017/06/hugo-with-firebase/</guid>
-      <description>&lt;p&gt;build HUGO on firebase
+      <guid>/2017/07/docker-container-%E9%80%A3%E7%B5%90-localhost-mysql/</guid>
+      <description>&lt;p&gt;docker connect localhost MySQL
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>php 輸出excel 可讀 utf8 中文</title>
+      <link>/2017/07/php-%E8%BC%B8%E5%87%BAexcel-%E5%8F%AF%E8%AE%80-utf8-%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/2017/07/php-%E8%BC%B8%E5%87%BAexcel-%E5%8F%AF%E8%AE%80-utf8-%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
     </item>
     
     <item>
