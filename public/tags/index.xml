@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Gcs</title>
+      <link>/tags/gcs/</link>
+      <pubDate>Sat, 19 Aug 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/gcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gh Pages</title>
       <link>/tags/gh-pages/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
@@ -53,6 +62,24 @@
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>/tags/google-calendar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud</title>
+      <link>/tags/google-cloud/</link>
+      <pubDate>Sat, 19 Aug 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/google-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Storage</title>
+      <link>/tags/google-cloud-storage/</link>
+      <pubDate>Sat, 19 Aug 2017 12:00:00 +0800</pubDate>
+      
+      <guid>/tags/google-cloud-storage/</guid>
       <description></description>
     </item>
     
