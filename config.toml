@@ -1,151 +1,260 @@
 baseURL = "/"
-languageCode = "zh-TW"
 title = "+Ray"
-theme = "hugo-tranquilpeak-theme"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = false
+paginate = 10
+
+# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-# googleAnalytics = "UA-123-45"
-paginate = 7
-canonifyurls = true
 
-[permalinks]
-  post = "/:year/:month/:slug/"
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  archive = "archives"
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "zh-TW"
+defaultContentLanguageInSubdir = false
 
-[author]
-  name = "+Ray"
-  bio = ""
-  job = "platform software engineer"
-  location = "Taipei"
-  gravatarEmail = "ray20204@gmail.com"
-  picture = "http://s.pimg.tw/avatar/ray20204/0/0/zoomcrop/200x200.png%3Fv=1500395503"
+[outputs]
+home = [ "HTML", "CSS", "RSS" ]
+section = [ "HTML", "RSS" ]
 
-# Menu Configuration
-[[menu.main]]
-  weight = 0
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
-  weight = 1
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 2
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 3
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 4
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
-
-[[menu.links]]
-  weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/ray20204"
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/readfiles/bfconfig/
+[blackfriday]
+hrefTargetBlank = false  # `true` opens external links in a new tab.
+fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+smartypants = false  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-  # Customize date format use to render blog post date, categories and other
-  # You must use date format used by Go Time package https://golang.org/pkg/time/
-  # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
-  # Default format is: January 2, 2006 
-  # dateFormat = "2 January 2006"
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
+color_theme = "dark"
 
-  # Global keywords configuration. Following keywords will be add to every pages
-  # keywords = ["development", "next-gen"]
+# Font style.
+#   Choose from `default`, `classic`, or `playfair`.
+font = "default"
 
-  # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = true
+# Your details.
+name = "+Ray"
+role = "platform software engineer"
 
-  # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
-  # If false it will flat categories.
-  hierarchicalCategories = true
+# Organizations/Affiliations.
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "PIXNET", url = "" } ]
 
-  description = "+Ray"
+gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+    avatar = "avatar.png"
+    email = "ray20204@gmail.com"
 
-  # Customization
-  # Define the behavior of the sidebar
-  # 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
-  #    medium sidebar on medium screen and header bar on small screen and
-  # extra large sidebar is swiped on extra large screen and large sidebar on all lower screen (default)
-  # 2: Display large sidebar on large screen, medium sidebar on medium screen and
-  #    header bar on small screen and large sidebar is swiped
-  # 3: Display medium sidebar on large and medium screen and header bar on small screen and
-  #    medium sidebar is swiped
-  # 4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and
-  #    large sidebar is swiped on all lower screens
-  # 5: Display header bar on all screens and large sidebar is swiped on large screen
-  # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+# Enable Keybase in Contact widget by entering your keybase.io username.
+	keybase = ""
 
-  # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
-  # There is many free CDN like Cloudinary or you can also use indirectly
-  # by using services like Google Photos.
-  # Current image is on AWS S3 and delivered by AWS CloudFront.
-  # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
-  # and use relative url : `your-image.png`
-  coverImage = "https://c2.staticflickr.com/2/1704/24265244706_804c38ab62_k.jpg"
+# Discussion link (e.g. link to a forum, mailing list, or chat).
+#   Uncomment line below to use.
+#   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = true
+# Diplay a logo in navigation bar rather than title (optional).
+#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+	logo = ""
 
-  # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
-  thumbnailImage = true
-  # Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`)
-  # Set this value to `right` if you have old posts to keep the old style on them
-  # and define `thumbnailImagePosition` on a post to overwrite this setting
-  thumbnailImagePosition = "bottom"
-  # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
-  # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
-  # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = true
+# Enable/disable map in Contact widget.
+# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+# a map provider below.
+# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+#   https://developers.google.com/maps/documentation/javascript/get-api-key
+# To use OpenStreetMap tiles, set `map = 2`.
+# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+#   https://www.mapbox.com/studio/account/tokens
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+#
+# Map provider:
+#   0: No map
+#   1: Google Maps
+#   2: OpenStreetMap (Mapnik)
+#   3: OpenStreetMap (Mapbox)
+	map = 0
+	map_api_key = ""
+	latitude = "37.4275"
+	longitude = "-122.1697"
+	zoom = 15
 
-  # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+# Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+	date_format = "2006-01-02"
+#   Examples: "3:04 pm" or "15:04"
+	time_format = "15:04"
 
-  # Header configuration
-  # The link at the right of the header is customizable
-  # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
-  # By default, author's gravatar or author's picture is displayed.
-  #     url: /#search
-  #     icon: search
-  #     class: st-search-show-outputs
+# Show estimated reading time for posts?
+	reading_time = true
 
-  # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
-  # they have to be referred from static root. Example
-  # customCSS = ["css/foo.css"]
+# Display comment count? Requires commenting to be enabled.
+	comment_count = true
 
-  # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
-  # they have to be referred from static root. Example
-  # customJS = ["js/foo.js"]
+# Display section pager for posts?
+	section_pager = true
 
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+	math = false
 
-  # Customize like of athor avatar in sidebar
-  # [params.sidebar.profile]
-  #   url = "/#about"
+# Highlight.js options
+#   highlight
+#     Enable global source code highlighting?  If false, you can
+#     override it for a particular page in that page's preamble.
+#
+#     Example: highlight = true
+#
+#   highlight_languages
+#     Add support for highlighting additional languages. Support for
+#     languages mentioned here will be included in all pages. You
+#     can also set this variable for a particular page in that
+#     page's preamble.
+#
+#     Example: highlight_languages = ["go", "lisp", "ocaml"]
+#
+#   highlight_style
+#     Choose a different CSS style for highlighting source
+#     code. Setting this option in a page's preamble has no
+#     effect.
+#
+#     Example: highlight_style = "github-gist"
+#
+#   For the list of supported languages and styles, see:
+#   https://cdnjs.com/libraries/highlight.js/
+#
+#   For more info on the highlighting options, see:
+#   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
+	highlight = true
+	highlight_languages = []
+# highlight_style = "github"
 
-  # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+# Enable native social sharing buttons?
+	sharing = true
+
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+	custom_css = []
+	custom_js  = []
+
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multi-lingual sites, copy this block to each language section at the end of this file.
+	publication_types = [
+		'Uncategorized',  # 0
+		'Conference proceedings',  # 1
+		'Journal',  # 2
+		'Work in progress',  # 3
+		'Technical report',  # 4
+		'Book',  # 5
+		'Book chapter'  # 6
+	]
+
+# Configuration of talk pages.
+	[params.talks]
+# Show talk time?
+	time = true
+
+# Configuration of publication pages.
+	[params.publications]
+# Date format (refer to Go's date format: http://fuckinggodateformat.com )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+	date_format = "January, 2006"
+
+# Configuration of project pages.
+	[params.projects]
+# List publications and talks related to the project?
+	list_children = true
+
+# Publication list format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+	publication_format = 3
+
+# Social/Academic Networking
+#
+# Icon pack "fa" includes the following social network icons:
+#
+#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+#   youtube, instagram, soundcloud
+#
+#   For email icon, use "fa" icon pack, "envelope" icon, and
+#   "mailto:your@email.com" as the link.
+#
+#   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+#
+# Icon pack "ai" includes the following academic network icons:
+#
+#   google-scholar, arxiv, orcid, researchgate, mendeley
+#
+#   Full list: https://jpswalsh.github.io/academicons/
+
+	[[params.social]]
+	icon = "envelope"
+	icon_pack = "fa"
+	link = "mailto:test@example.org"
+
+	[[params.social]]
+	icon = "twitter"
+	icon_pack = "fa"
+	link = "//twitter.com/GeorgeCushen"
+
+	[[params.social]]
+	icon = "google-scholar"
+	icon_pack = "ai"
+	link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+	[[params.social]]
+	icon = "github"
+	icon_pack = "fa"
+	link = "//github.com/gcushen"
+
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+	[params.menus]
+# Align the main menu to the right of the page? (true/false)
+	align_right = true
+
+	[[menu.main]]
+	name = "Home"
+	url = "#about"
+	weight = 1
+
+	[[menu.main]]
+	name = "Posts"
+	url = "#posts"
+	weight = 3
+
+	[[menu.main]]
+	name = "Projects"
+	url = "#projects"
+	weight = 4
+
+	[[menu.main]]
+	name = "Contact"
+	url = "#contact"
+	weight = 6
+
+# Taxonomies.
+	[taxonomies]
+	tag = "tags"
+	category = "categories"
+	publication_type = "publication_types"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+	[Languages.en]
+	languageCode = "zh-TW"
+

@@ -1,153 +1,285 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/2017/08/google-cloud-storage-%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E5%8F%8A%E4%B8%8B%E8%BC%89/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2017-12-10-php-magic-function-with-empty/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2017/07/docker-container-%E9%80%A3%E7%B5%90-localhost-mysql/</loc>
-    <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2017-08-19-google-cloud-storage/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2017/07/php-%E8%BC%B8%E5%87%BAexcel-%E5%8F%AF%E8%AE%80-utf8-%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2017-07-26-docker-connect-localhost-mysql/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2017/06/hugo-with-firebase/</loc>
-    <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2017-07-13-php-export-utf8-excel/</loc>
+      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2016/11/google-calendar-url-format/</loc>
-    <lastmod>2016-11-24T00:00:00+08:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2017-06-24-hugo-with-firebase/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2016/06/git-page-blog-with-jekyll/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2016-11-24-google-calendar-url/</loc>
+      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/2016-06-28-gitpage-blog/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/archives/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-12-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/docker/</loc>
-    <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/docker/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/excel/</loc>
-    <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/excel/</loc>
+      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/firebase/</loc>
-    <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/firebase/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/gcs/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/gcs/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/gh-pages/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/gh-pages/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/google-calendar/</loc>
-    <lastmod>2016-11-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/google-calendar/</loc>
+      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/google-cloud/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/google-cloud/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/google-cloud-storage/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/google-cloud-storage/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/hugo/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/jekyll/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/jekyll/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/localhost/</loc>
-    <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/localhost/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/mysql/</loc>
-    <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/magic-function/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/php/</loc>
-    <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/mysql/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/note/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/tags/php/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/categories/tech/</loc>
-    <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>/tags/utf8/</loc>
-    <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/tech/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/utf8/</loc>
+      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
