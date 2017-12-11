@@ -227,7 +227,7 @@ gravatar = false  # Get your avatar from Gravatar.com? (true/false)
 
 	[[menu.main]]
 	name = "Home"
-	url = "#about"
+	url = "#hero"
 	weight = 1
 
 	[[menu.main]]
