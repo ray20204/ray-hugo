@@ -2,3 +2,4 @@ firebase.json
 .firebaserc
 .DS_Store
 *.swp
+public
