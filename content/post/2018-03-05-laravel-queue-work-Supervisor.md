@@ -1,5 +1,5 @@
 ---
-title: "Laravel userd Supervisor monitor queue:work process and automatically restart
+title: "Laravel userd Supervisor monitor queue:work process and automatically restart"
 date: "2018-03-06T12:00:00+08:00"
 autoThumbnailImage: false
 thumbnailImagePosition: left
@@ -44,5 +44,5 @@ numprocs：執行 process 的數量
     RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
     RUN apt-get update
     RUN apt-get -y --force-yes install supervisor
-    COPY worker/conf/pixbehavior-worker.conf /etc/supervisor/conf.d/
+    COPY worker.conf /etc/supervisor/conf.d/
 
