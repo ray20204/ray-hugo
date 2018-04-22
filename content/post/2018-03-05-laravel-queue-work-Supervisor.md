@@ -33,7 +33,8 @@ numprocs：執行 process 的數量
 
     [program:worker]
     process_name=%(program_name)s_%(process_num)02d
-    command=php artisan queue:work --timeout=10 --sleep=3                                                                                      autostart=true
+    command=php artisan queue:work --timeout=10 --sleep=3
+    autostart=true
     autorestart=true
     numprocs=1
     redirect_stderr=true
