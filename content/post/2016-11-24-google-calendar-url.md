@@ -16,15 +16,14 @@ google calendar url query arguments
 <!--more-->
 ## google calendar url 建立活動 ##
 ~~~
-https://www.google.com/calendar/render?action=TEMPLATE
+https://calendar.google.com/calendar/r/eventedit?
 &text=Calendar+Text
-&dates=20161207T090000/20161207T110000
+&dates=20180426T090000/20180426T110000
 &details=this+is+detail
 &ctz=Asia/Taipei
 &location=Taipei
 &trp=false
 &sf=true
-&src=your.calendar.email+account
 ~~~
 ~~~
 'text'     => 標題,
@@ -34,5 +33,4 @@ https://www.google.com/calendar/render?action=TEMPLATE
 'location' => 地點,
 'trp'      => 是否忙碌,
 'sf'       => 是否視訊通話,
-'src'      => 日曆
 ~~~
