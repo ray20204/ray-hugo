@@ -14,7 +14,7 @@ disqusShortname = ""
 googleAnalytics = "UA-98198860-2"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "zh-TW"
+defaultContentLanguage = "zh-tw"
 defaultContentLanguageInSubdir = false
 
 [outputs]
@@ -245,6 +245,5 @@ gravatar = false  # Get your avatar from Gravatar.com? (true/false)
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-	[Languages.en]
-	languageCode = "zh-TW"
-
+[Languages.zh-tw]
+  languageCode = "zh-tw"
