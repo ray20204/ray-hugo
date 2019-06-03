@@ -1,5 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/ci/cd/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2019-04-24-drone-ci-cd/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/gke/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/php/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/note/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/tech/</loc>
+      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/docker/</loc>
+      <lastmod>2018-10-29T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2018-10-29-docker-install/</loc>
+      <lastmod>2018-10-29T12:00:00+08:00</lastmod>
+    </url>
+    
   
     
     
@@ -14,110 +131,28 @@
     
     <url>
     
+      <loc>/tags/supervisor/</loc>
+      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/laravel/</loc>
+      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2018-01-09-facebook-exception/</loc>
       <lastmod>2018-01-09T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-12-10-php-magic-function-with-empty/</loc>
-      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-08-19-google-cloud-storage/</loc>
-      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-07-26-docker-connect-localhost-mysql/</loc>
-      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-07-13-php-export-utf8-excel/</loc>
-      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-06-24-hugo-with-firebase/</loc>
-      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2016-11-24-google-calendar-url/</loc>
-      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2016-06-28-gitpage-blog/</loc>
-      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-12-11T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/docker/</loc>
-      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/excel/</loc>
-      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -135,8 +170,27 @@
     
     <url>
     
-      <loc>/tags/firebase/</loc>
-      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <loc>/tags/note/</loc>
+      <lastmod>2018-01-09T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2017-12-10-php-magic-function-with-empty/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/magic-function/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -155,19 +209,8 @@
     
     <url>
     
-      <loc>/tags/gh-pages/</loc>
-      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/google-calendar/</loc>
-      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/2017-08-19-google-cloud-storage/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -195,8 +238,8 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
-      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <loc>/tags/mysql/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,19 +248,8 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
-      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/laravel/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/2017-07-26-docker-connect-localhost-mysql/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -235,8 +267,8 @@
     
     <url>
     
-      <loc>/tags/magic-function/</loc>
-      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
+      <loc>/tags/excel/</loc>
+      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -245,78 +277,8 @@
     
     <url>
     
-      <loc>/tags/mysql/</loc>
-      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/note/</loc>
-      <lastmod>2018-01-09T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/php/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/supervisor/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/tech/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/2017-07-13-php-export-utf8-excel/</loc>
+      <lastmod>2017-07-13T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -326,6 +288,92 @@
     
       <loc>/tags/utf8/</loc>
       <lastmod>2017-07-13T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/firebase/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/hugo/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2017-06-24-hugo-with-firebase/</loc>
+      <lastmod>2017-06-24T12:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/google-calendar/</loc>
+      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2016-11-24-google-calendar-url/</loc>
+      <lastmod>2016-11-24T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/gh-pages/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2016-06-28-gitpage-blog/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/jekyll/</loc>
+      <lastmod>2016-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     
