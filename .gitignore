@@ -4,3 +4,4 @@ firebase.json
 .DS_Store
 *.swp
 public
+resources
