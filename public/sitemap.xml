@@ -5,18 +5,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/ci/cd/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
     </url>
     
   
@@ -25,8 +14,151 @@
     <url>
     
       <loc>/categories/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/laravel/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2020-06-30-laravel-mail-driver/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/note/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/php/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/tech/</loc>
+      <lastmod>2020-06-30T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/oauth2/</loc>
+      <lastmod>2020-03-17T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2020-03-17-pkce/</loc>
+      <lastmod>2020-03-17T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/pkce/</loc>
+      <lastmod>2020-03-17T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/eloquent/</loc>
+      <lastmod>2020-01-23T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-01-23-eloquent-independently/</loc>
+      <lastmod>2020-01-23T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/chrome/</loc>
+      <lastmod>2020-01-22T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/cookie/</loc>
+      <lastmod>2020-01-22T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2020-01-21-samesite/</loc>
+      <lastmod>2020-01-22T08:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/samesite/</loc>
+      <lastmod>2020-01-22T08:00:00+08:00</lastmod>
     </url>
     
   
@@ -45,57 +177,6 @@
     
       <loc>/tags/gke/</loc>
       <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/php/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/note/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/tech/</loc>
-      <lastmod>2019-04-24T08:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -105,7 +186,6 @@
     
       <loc>/tags/docker/</loc>
       <lastmod>2018-10-29T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -133,17 +213,6 @@
     
       <loc>/tags/supervisor/</loc>
       <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/laravel/</loc>
-      <lastmod>2018-03-06T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -162,7 +231,6 @@
     
       <loc>/tags/facebook-sdk/</loc>
       <lastmod>2018-01-09T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -172,7 +240,15 @@
     
       <loc>/tags/note/</loc>
       <lastmod>2018-01-09T12:00:00+08:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/magic-function/</loc>
+      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -189,27 +265,7 @@
     
     <url>
     
-      <loc>/tags/magic-function/</loc>
-      <lastmod>2017-12-10T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/gcs/</loc>
-      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2017-08-19-google-cloud-storage/</loc>
       <lastmod>2017-08-19T12:00:00+08:00</lastmod>
     </url>
     
@@ -220,7 +276,6 @@
     
       <loc>/tags/google-cloud/</loc>
       <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -230,7 +285,6 @@
     
       <loc>/tags/google-cloud-storage/</loc>
       <lastmod>2017-08-19T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -238,9 +292,8 @@
     
     <url>
     
-      <loc>/tags/mysql/</loc>
-      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/2017-08-19-google-cloud-storage/</loc>
+      <lastmod>2017-08-19T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -259,7 +312,15 @@
     
       <loc>/tags/localhost/</loc>
       <lastmod>2017-07-26T12:00:00+08:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/mysql/</loc>
+      <lastmod>2017-07-26T12:00:00+08:00</lastmod>
     </url>
     
   
@@ -269,7 +330,6 @@
     
       <loc>/tags/excel/</loc>
       <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -288,7 +348,6 @@
     
       <loc>/tags/utf8/</loc>
       <lastmod>2017-07-13T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -298,7 +357,6 @@
     
       <loc>/tags/firebase/</loc>
       <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -308,7 +366,6 @@
     
       <loc>/tags/hugo/</loc>
       <lastmod>2017-06-24T12:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -327,7 +384,6 @@
     
       <loc>/tags/google-calendar/</loc>
       <lastmod>2016-11-24T00:00:00+08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -346,7 +402,6 @@
     
       <loc>/tags/gh-pages/</loc>
       <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -365,7 +420,14 @@
     
       <loc>/tags/jekyll/</loc>
       <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/ci/cd/</loc>
     </url>
     
   
@@ -374,7 +436,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <priority>0</priority>
     </url>
     
   

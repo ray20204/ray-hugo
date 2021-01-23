@@ -51,11 +51,11 @@ font = "default"
 
 # Your details.
 name = "+Ray"
-role = "platform software engineer"
+role = "backend engineer"
 
 # Organizations/Affiliations.
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "PIXNET", url = "" } ]
+organizations = [ { name = "104", url = "" } ]
 
 gravatar = false  # Get your avatar from Gravatar.com? (true/false)
     avatar = "avatar.png"
